@@ -33,3 +33,17 @@ http://www.engineer-jsp.cn/docs/MediaVideo.MOV
 2.关于将apk安装在平板时的问题，部分平板可能没有imei号，导致程序读取异常并崩溃，建议安装在手机上
 
 3.局域网内连接的情况下，由于硬件或网络通路问题会导致画面偶尔卡顿，获取文件目录过久，建议安装了MediaPushServer的手机打开热点，客户端连接这个热点，通信效果最佳
+
+# License
+Copyright (C) 2018 Engineer-Jsp<br><br>
+Licensed under the Apache License, Version 2.0 (the "License");<br>
+you may not use this file except in compliance with the License.<br>
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
