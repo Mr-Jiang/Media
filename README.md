@@ -7,9 +7,6 @@ https://blog.csdn.net/jspping/article/details/79774375
 # 效果图
 ![image](https://github.com/Mr-Jiang/Media/blob/master/MediaImage/mediaImage.png)
 
-# 效果视频下载地址
-http://www.engineer-jsp.cn/docs/MediaVideo.MOV
-
 # Usage
 
 1.将MediaPushServer.apk安装好并打开热点或将他俩(服务端与客户端)处于同一WIFI网络下
